@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @graham-thomas
-- 👀 I’m interested in molecular biology and bioinformatics
+- 👀 I’m interested in molecular biology, fungi, plant pathogens and bioinformatics
 - 🌱 I’m continually learning unix, python, R etc
 - 💞️ I’m looking to collaborate on interesting bioinformatic projects
 - 📫 How to reach me - gray.tonks@gmail.com
